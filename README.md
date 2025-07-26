@@ -3,6 +3,13 @@
 A modern, object-oriented C++ implementation of the classic Pong game using the [raylib](https://www.raylib.com/) graphics library. This project demonstrates clean code architecture, real-time game logic, and interactive graphics, making it an excellent showcase for C++ and game development skills.
 
 
+## Download
+
+**[Download Pong Retro for Windows](https://github.com/PrinceBujethia/Pong-Retro/releases/latest/download/main.exe)**
+
+Just click the link above to get the executable and start playing instantly!
+
+
 
 ## Features
 
