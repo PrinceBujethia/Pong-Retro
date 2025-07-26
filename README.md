@@ -5,7 +5,7 @@ A modern, object-oriented C++ implementation of the classic Pong game using the 
 
 ## Download
 
-**[Download Pong Retro for Windows](https://github.com/PrinceBujethia/Pong-Retro/releases/latest/download/main.exe)**
+**[Download Pong Retro for Windows](https://github.com/PrinceBujethia/Pong-Retro/releases/download/Download/Pong.exe)**
 
 Just click the link above to get the executable and start playing instantly!
 
