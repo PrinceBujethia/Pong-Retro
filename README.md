@@ -2,7 +2,7 @@
 
 A modern, object-oriented C++ implementation of the classic Pong game using the [raylib](https://www.raylib.com/) graphics library. This project demonstrates clean code architecture, real-time game logic, and interactive graphics, making it an excellent showcase for C++ and game development skills.
 
-![Preview](preview.jpg)
+
 
 ## Features
 
@@ -64,9 +64,6 @@ This project is designed to impress recruiters by demonstrating:
 - Game development fundamentals
 - AI and collision logic
 - Professional build system and documentation
-
-## License
-This project is licensed under the MIT License.
 
 ---
 
